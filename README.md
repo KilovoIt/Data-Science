@@ -124,17 +124,17 @@ I am wholeheartedly with them. I love to learn new things, this is one of my bas
 
 
 <details>
-<summary><b>Hobby or a Career?</b></summary>
+<summary><b>A Hobby or A Career?</b></summary>
 
 # Do you code for living or it's your hobby?
 
-I will start this one with a fun fact. A good portion of IT specialists pointed that their hobby is coding. Some people cannot understand how is that even possible: a person writes code for a company/client, comes home... and writes more code in their leisure time?! Yup, that't possible. 
+I will start this one with a fun fact. A good portion of IT specialists pointed that their hobby is coding. Some people cannot understand how is that even possible: a person writes code for a company/client, comes home... and writes more code in their leisure time?! Yup, that's possible. 
 
-The answer to it is: a code can be different. Sometimes people come home to try new things that they cannot outright do at work, don't have free time to do it there, or it's completely different area of coding. Practice is the fastest way to improve, develop, or learn new things, and therefore those who tinker with code in their free time are often successful at their job. 
+The answer to this is: a code can be different. Sometimes people come home to try new things that they cannot outright do at work, don't have free time to do it there, or it's completely different area of coding. Practice is the fastest way to improve, develop, or learn new things, and therefore those who tinker with code in their free time are often successful at their job. 
 
 I can proudly say that coding is my hobby. My main vector is Data Science, but I am also interested in Cryptography (it's kinda related to Data Science in a lot of ways), and Cybersecurity. Besides that, I often try new things that can be used directly in Data Science in my free time, and I truly enjoy it. 
 
-The thought I came up with: it is hard to be a good programmer without true passion for coding. It is certainly possible to do some limited coding for work, and never touch a computer at home, however, those people are usually outcompeted in their occupation with those who *do* code in their free time. Bottom line: a hobby that became a career = smooth sailing. 
+The thought I came up with: it is hard to be a good programmer without true passion for coding. It is certainly possible to do some limited coding for work and never touch a computer at home, however, those people are usually outcompeted in their occupation with those who *do* code in their free time. Bottom line: a hobby that became a career = smooth sailing. 
 
 
 </details>
