@@ -91,6 +91,57 @@ Finally, I was always tempted to say this: if your Hiring/Department manager sti
 </details>
 
 <details>
+<summary><b>Experience</b></summary>
+
+# **Experience matters**
+
+I am not new to a Data Science field. In total, my overall programming experience is 2.5 years now. Since I started learning Python in 2019, I tried many things, eventually finding my spot at Data Science. 
+
+Througout this time, I worked on many projects alone, worked in a team of 2 and 10+ people. I am familiar with 'sprint' model - that's how our bootcamp trained us: produce a working version of a product by the deadline. Working in a high stress/pressure environment is not new to me. 
+
+I struggled at some point of learning and gaining experience.  At the same time, there wasn't a single time when I failed to get my work done. 
+
+I am striving to be responsible. If it is a large project, I usually start preparing for it beforehand, searching for datasets, making sure the data is clean and relevant. Sometimes I stay over my allocated hours to fix an annoying bug or finish a certain piece - it never was a problem for me, I like what I am doing. In some situations, I see a problem (and a solution) for something that is not my responsibility, but pointing to a problem in Frontend app (for example) could make the project better.
+
+
+
+</details>
+
+<details>
+<summary><b>Learning vs Immediate Knowledge</b></summary>
+
+# Learning vs Immediate Knowledge
+
+I like to ask employers this question for a reason. IT is rapidly changing primarily because it's a relatively new industry. For example, Python was not so popular 15 years ago compared to now. At the same time, Python is not very efficient in terms of memory utilization, can be slow for certain applicaitons, and can be displaced by another programming language in 10-15 years. Hence, workforce have to adapt for these rapid changes. Sometimes on the fly, learning as they go. 
+
+When I ask an employer "what would you prefer: an employee with a decent immediate knowledge but slow learning rate, or an employee who starts below the average in their knowledge, but absorbs information like a sponge and grows every day?", the vast majority of them choose the second option over the first one, unsurprisingly. 
+
+I am wholeheartedly with them. I love to learn new things, this is one of my basic needs alongside with eating and sleeping. Every week I try something new I have never touched before. My area of interest doesn't end on Data Science, I am also interested in Cybersecurity and Cryptography, it was exciting to do Windows GUI projects. When it comes to Data Science, there always new ways to scrape, clean, or vizualize data. Sometimes I rummage through other people's files here on GitHub, and I see a plot type or a technique I didn't use before. I might think to myself "That's neat! I want to use that too!" - and I will encorporate this new tool into my the most recent project I am working on. 
+
+
+
+</details>
+
+
+<details>
+<summary><b>Hobby or a Career?</b></summary>
+
+# Do you code for living or it's your hobby?
+
+I will start this one with a fun fact. A good portion of IT specialists pointed that their hobby is coding. Some people cannot understand how is that even possible: a person writes code for a company/client, comes home... and writes more code in their leisure time?! Yup, that't possible. 
+
+The answer to it is: a code can be different. Sometimes people come home to try new things that they cannot outright do at work, don't have free time to do it there, or it's completely different area of coding. Practice is the fastest way to improve, develop, or learn new things, and therefore those who tinker with code in their free time are often successful at their job. 
+
+I can proudly say that coding is my hobby. My main vector is Data Science, but I am also interested in Cryptography (it's kinda related to Data Science in a lot of ways), and Cybersecurity. Besides that, I often try new things that can be used directly in Data Science in my free time, and I truly enjoy it. 
+
+The thought I came up with: it is hard to be a good programmer without true passion for coding. It is certainly possible to do some limited coding for work, and never touch a computer at home, however, those people are usually outcompeted in their occupation with those who *do* code in their free time. Bottom line: a hobby that became a career = smooth sailing. 
+
+
+</details>
+
+
+
+<details>
 <summary><b>My Projects</b></summary>
 
 # **My projects**
