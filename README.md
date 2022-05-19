@@ -160,4 +160,59 @@ I solved this problem in a very peculiar way: wrote a function that creates butt
 
 </details>
 
+<details>
+<summary><b>Who is a good programmer?</b></summary>
+
+# **Who is a good programmer?**
+
+I will start this one with a tale. This is [likely] a fictionary story about some general, who expected his forces to be attacked anytime. Because of that, he wrote an extensive manual for each and every possible situation with detailed instructions on how his troops should act. When the enemy attack happened unexpectedly one night, the general was asleep. The military personnel woke him up, screaming "we have been attacked". The general told them to take one of the binders where all the instructions for that situation were, and went back to sleep without any hesitation. 
+
+This general would be a good programmer nowadays, indeed. Any code, any script is a set of instructions for the machine how to act in certain cases. If a software engineer can run their code and go to sleep being completely sure it won't stumble upon a rare exception, or some part of the code will be executed incorrectly - this is really impressive. 
+
+--- 
+
+Besides writing a casewise code, a good coder should always comment his code. _Always_. Comments are not necessary for a proper code execution. Furthermore, I am totally sure that if you spend a couple of days on any project where comments do not occur at all, you will be able to tell what exactly happens there. The only problem is these couple of days you have to dig through functions and classes, trying to guess what comes in and what should come out. Sometimes it's worse, because something doesn't work properly and the 500+ lines of code become useless. No one wants to spend an eternity finding out why this error might happen.
+
+But if I don't comment my code means only **me** can understand it, right? Doesn't it make me indespensable? It doesn't, really. Anyone who knows how a programming language works can successfuly reverse engineer your code. Encryption is truly the only way to protect your code, not commenting it will make you a less wanted developer and only. 
+
+Lastly, it's so important comment your code for yourself. Our memory is not as good as an SSD. I have a variety of projects that are extensively large, complex, and I worked on them such a long time ago that I don't remember what happens in certain functions or methods. However, by reading comments I can quickly restore it in my memory, sort of get 'precached explanations' for the functions, and be on my way. 
+
+A good coder always comments the code. 
+
+---
+
+Commenting is awesome, but it goes even better with proper variable naming. Again, just like comments, variable names (as long as they are legal!) are not necessary for a proper code execution. However, one shall always keep in mind that humans interact with code sometimes as often as the machine. 
+
+I can totally understand the temptation to call an iterable **i** for any loop:
+
+```
+for i in products:
+    ingest(i)
+```
+
+i is an iterable of products list or a generator. However, it is much better to call it an **item** or **product**, this way when ingest() function is called, I can see what object was passed as an argument. 
+
+A good developer calls things by their names.
+
+---
+
+DRY. Don't Repeat Yourself. 
+
+I overheard this one from one of the numerous coding videos long time ago. I used it ever since. When you have a few lines of code that occur over and over again, that indicates that something can be simplified. At least that chunk of repeating code can be a function. When the code is properly 'DRYed', it becomes more concise, readable, and reusable. 
+
+
+---
+
+Finally, there is one more important habit I would include in a 'Good Coder' habit list: making modular code. 
+A simple code looks like a line of instantiated variables and methods called on objects, nothing else. Straight line from the beginning to the end. This code works, until you realize that part of it is good and part of it needs to be completely reworked. Or even worse: you need this good working part in another file. You can just copy and paste it, and then deal for half an our with variable names, repeating code, etc. I would compare it to gluing all your furniture to walls, and trying to reposition it later. 
+
+Or better, you can make code logic in form of functions and classes. Each function, each method does what it is supposed to do. If only a small portion of code is needed in another project, you can import only what you need, without even reading this file and fighting over variable names. 
+
+Modular coding saves a lot of time.
+
+
+
+
+</details>
+
 
